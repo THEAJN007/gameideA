@@ -1,0 +1,31 @@
+STORY-
+We control an adventurer who is in search of treasure. However monsters try to stop him from reaching that treasure. The adventurer has weapons and he can defeat the monsters to get gold. With more gold, he can buy stronger weapons and defeat stronger enemies. There are 10 levels and at the end of each level there is a treasure chest.
+
+ELEMENTS-
+
+CHARACTERS-
+ADVENTURER - The playing character which we control with arrow keys.
+MONSTERS - NPCS/OBJECTS which try to stop us.
+BOSSES - NPCS at the end of every level that have more health and attack than the MONSTERS.
+
+OBJECTS-
+SWORD - The main weapon of the ADVENTURER which is used to kill the MONSTERS.
+GOLD - Main currency of the game used to upgrade weapons and buy potions.
+POTIONS - These are items the ADVENTURER can use when his health is low.
+
+FEATURES-
+SHOP - In the shop, there will be better SWORDS and POTIONS the player can buy for gold.
+OPTIONS{NOT SURE} - In OPTIONS, the player can change their name, charcter and sound settings.
+LEVELS - After clicking START, there will be a rectangular area where all levels will be available.
+
+
+GAME RULES-
+The game starts with a menu. There are three buttons- START, OPTIONS and SHOP. When the player starts, there will be a tutorial explaining how to play where instructions will be given in a dialogue box. After the player completes the tutorial, he will have access to the levels. When the player presses START for the first time, he will choose his name and character and then be taken directly to level 1. After level 1, he will have access to the levels screen and the shop.
+
+The scoring system is equivalent to gold.
+
+There will be 5 different swords, 10 levels, potions, and new bosses for each level. The boss for the last level will be larger and stronger than the other bosses and there will be a treasure chest after defeating that boss.
+
+Platform Support on Web.
+
+ANIMATIONS REQUIRED.
